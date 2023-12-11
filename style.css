@@ -1,6 +1,6 @@
 @font-face {
   font-family: Gilroy;
-  src: url("/Gilroy-FONT/Gilroy-Light.otf");
+  src: url("./Gilroy-FONT/Gilroy-Light.otf");
   font-weight: 400;
 }
 
@@ -89,7 +89,6 @@ body {
 .image {
   width: 11vw;
   height: 12vw;
-  background-color: yellow;
 }
 .image img {
   height: 100%;
@@ -152,7 +151,6 @@ body {
 .bimg {
   width: 100px;
   height: 130px;
-  background-color: red;
 }
 .icons {
   margin-top: 2.7vw;
